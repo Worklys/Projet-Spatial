@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FFBA310B-43E2-A50D-D0B1-D594790F16F2}") = "TNT002-DeplacementEtRotationAvecLaSouris-START", "Assembly-CSharp.csproj", "{510884BF-6B47-084E-47B2-75A3A5AE79A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510884BF-6B47-084E-47B2-75A3A5AE79A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510884BF-6B47-084E-47B2-75A3A5AE79A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510884BF-6B47-084E-47B2-75A3A5AE79A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510884BF-6B47-084E-47B2-75A3A5AE79A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
